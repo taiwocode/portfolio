@@ -1,0 +1,15 @@
+.projects .content .projectsBx:hover
+{
+background: #2196f3;
+}
+.projects .content .projectsBx img
+{
+    max-width: 80px;
+    filter: invert(1);
+
+}
+.projects .content .projectsBx h2
+{
+    font-size: 20px;
+    font-weight: 600;
+}
